@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly com.knoldus.learning.dao.SelectDBFunctionsSpec, Some(ced1f55a-b65e-4ce5-b838-cbf9e6c1e052), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSelectDBFunctionsSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSelectDBFunctionsSpec[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should selectSomeStudentsName[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should selectAllStudentsNameAndClass[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should selectSomeStudentsV2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should selectAllStudents[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should selectStudentsByName[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should selectSomeStudents[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should selectStudentsDesc[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should getStudentCountByClass[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 second, 420 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 8[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 8, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 2 s, completed 13-Jun-2023, 9:27:12 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
